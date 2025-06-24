@@ -1,5 +1,4 @@
-# Project Title  
-**Open-Source Social Media Data Donation Tool**
+## Open-Source Social Media Data Donation Tool
 
 ## Description
 
